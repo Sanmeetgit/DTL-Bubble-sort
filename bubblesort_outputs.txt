@@ -1,0 +1,28 @@
+Outputs of the bubblesort for different arrays is:
+
+$ ./bubblesort.sh
+Array in original order:
+10 8 20 100 12
+Array in sorted order :
+8 10 12 20 100
+
+
+$ ./bubblesort.sh
+Array in original order:
+45 17 88 10 1 55 22 77 62 7
+Array in sorted order :
+1 7 10 17 22 45 55 62 77 88
+
+
+$ ./bubblesort.sh
+Array in original order:
+-3 4 -19 0 11 -25 1
+Array in sorted order :
+-25 -19 -3 0 1 4 11
+
+
+$ ./bubblesort.sh
+Array in original order:
+100 500 200 400 300
+Array in sorted order :
+100 200 300 400 500
